@@ -2,5 +2,5 @@
 ## Zachary Reece
 ### CPE-322 - Engineering Design VI
 
-![https://th.bing.com/th/id/OIP.Oe7hN-YM-MkEms1HK_kz5wHaG0?w=165&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7]
+![image](https://github.com/DZiggle/CPE-322/assets/144705148/5f445d9b-2e2d-48ed-872a-796d655980c4)
 > “The more you know, the more you realize you know nothing.” - Socrates
