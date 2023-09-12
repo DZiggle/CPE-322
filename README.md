@@ -6,12 +6,19 @@
 > “The more you know, the more you realize you know nothing.” - Socrates
 
 Here's a list of coding languages I have learned:
-- Java (I'm most familiar with Java)
-- Python (I'm excited to learn more this semester)
-- C (I want to get into C++ as well)
-- Assembly Language (This was brutal and I'm glad it's over)
+- Java
+(I'm most familiar with Java)
+- Python
+(I'm excited to learn more this semester)
+- C
+(I want to get into C++ as well)
+- Assembly Language :cry:
+(This was brutal and I'm glad it's over) 
 
-The C program I am most proud of coding is a football player database that allows you to search and update player information and statistics. I have not coded in a while, so I am rusty now, however, here is a sample of that code:
+The C program I am most proud of coding is a football player database that allows you to search and update player information and statistics. :football:
+> [!WARNING]
+> I coded this back in community college and I have not coded in a while, so I am a bit rusty now.
+Either way, here is a sample of that code:
 ```
 main(){
 	int entry, i;					
