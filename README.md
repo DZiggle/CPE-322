@@ -48,3 +48,6 @@ main(){
 		Player[i].rushingYards = 0;
 	}
 ```
+
+Here is my results from the half adder vhdl:
+![image](<img width="1248" alt="Screenshot 2023-09-18 132631" src="https://github.com/DZiggle/CPE-322/assets/144705148/480b364d-a6af-48a4-bdd4-45f3c680462d">)
