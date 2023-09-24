@@ -1,6 +1,5 @@
-# **Assignment 0 - GitHub Repository**
-## Zachary Reece
-### CPE-322 - Engineering Design VI
+# Zachary Reece
+## CPE-322 - Engineering Design VI
 
 ![image](https://github.com/DZiggle/CPE-322/assets/144705148/5f445d9b-2e2d-48ed-872a-796d655980c4)
 > “The more you know, the more you realize you know nothing.” - Socrates
@@ -49,5 +48,5 @@ main(){
 	}
 ```
 
-Here is my results from the half adder vhdl:
+Here are my results from the half adder vhdl:
 ![image](https://github.com/DZiggle/CPE-322/assets/144705148/480b364d-a6af-48a4-bdd4-45f3c680462d)
