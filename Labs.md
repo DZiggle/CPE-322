@@ -1,6 +1,9 @@
 # Lab 1:
-
+Half Adder:
 ![image](https://github.com/DZiggle/CPE-322/assets/144705148/480b364d-a6af-48a4-bdd4-45f3c680462d)
+
+4-to-1 Multiplexer:
+![image](https://github.com/DZiggle/CPE-322/assets/144705148/7d9f01b1-f1dc-426d-b80d-eeb2d597ffbb)
 
 # Lab 2:
 
