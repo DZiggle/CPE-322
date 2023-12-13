@@ -48,6 +48,8 @@ Half Adder:
 # Lab 8:
 
 ![image](https://github.com/DZiggle/CPE-322/assets/144705148/63ae1e84-8734-41e4-9d70-a48f257a90c9)
+![image](https://github.com/DZiggle/CPE-322/assets/144705148/dcf5d229-2616-4d9a-842b-d4f319cebd6f)
+![image](https://github.com/DZiggle/CPE-322/assets/144705148/e8f1d381-d0bc-4b87-832b-e43db52d17ef)
 
 
 # Lab 9:
