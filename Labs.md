@@ -45,6 +45,14 @@ Half Adder:
 ![image](https://github.com/DZiggle/CPE-322/assets/144705148/3dad4b74-62ee-4b26-b1e0-58c04126eead)
 ![image](https://github.com/DZiggle/CPE-322/assets/144705148/a186e243-a633-4d0f-80a1-b04f1718bc56)
 
+# Lab 9:
+
+![image](https://github.com/DZiggle/CPE-322/assets/144705148/4d6f7223-3578-46b8-80a6-3d8e206ad054)
+![image](https://github.com/DZiggle/CPE-322/assets/144705148/f36e1e09-e67d-40ab-a582-38fcd09853e8)
+![image](https://github.com/DZiggle/CPE-322/assets/144705148/2158d766-21d5-4851-9800-b971105e8854)
+![image](https://github.com/DZiggle/CPE-322/assets/144705148/d01daf7d-625b-4c32-af43-a0be82ac1cca)
+![image](https://github.com/DZiggle/CPE-322/assets/144705148/6a18c594-68ed-466f-9b6f-8b2111c3fd89)
+
 # Lab 10:
 
 ![image](https://github.com/DZiggle/CPE-322/assets/144705148/f5693f70-79d8-4d4d-b3bc-62d5273dccf2)
