@@ -18,3 +18,19 @@ Half Adder:
 ![image](https://github.com/DZiggle/CPE-322/assets/144705148/c41378dd-910c-44a1-9c48-56c82ac38f61)
 ![image](https://github.com/DZiggle/CPE-322/assets/144705148/2a1f1fb6-0c6d-44dc-b210-a47b9afedd10)
 ![image](https://github.com/DZiggle/CPE-322/assets/144705148/0b2e8fec-7200-47b7-a718-213025ab12cb)
+
+# Lab 5: 
+
+![image](https://github.com/DZiggle/CPE-322/assets/144705148/a6509d63-09ae-404a-b754-4d7d6615b5af)
+![image](https://github.com/DZiggle/CPE-322/assets/144705148/7dbe959b-e86f-429f-ba0f-e3829592e436)
+![image](https://github.com/DZiggle/CPE-322/assets/144705148/b43207a3-bb27-4b0c-a220-0a8e34ecef70)
+![image](https://github.com/DZiggle/CPE-322/assets/144705148/ba146905-f4bc-4725-93b1-ff50bf49881c)
+![image](https://github.com/DZiggle/CPE-322/assets/144705148/906f1387-c120-4606-965b-4741caef97ac)
+
+# Lab 6:
+
+![image](https://github.com/DZiggle/CPE-322/assets/144705148/ecfbb558-4aed-499b-bf5f-34c44dde365f)
+![image](https://github.com/DZiggle/CPE-322/assets/144705148/a46ab028-207d-4df2-b5b3-566982c31a13)
+![image](https://github.com/DZiggle/CPE-322/assets/144705148/aa42b599-f4b7-4693-9a58-203907daf3d7)
+![image](https://github.com/DZiggle/CPE-322/assets/144705148/2bad3b8d-8995-48cf-913e-4afdf5004f7c)
+![image](https://github.com/DZiggle/CPE-322/assets/144705148/b2949d04-2af1-4139-bcd3-3e07a0cac4f5)
